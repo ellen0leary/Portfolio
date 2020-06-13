@@ -38,9 +38,24 @@ nav ul{
 header{
   top: 70px;
   position: relative;
-  margin-bottom: 110px;
+  margin-bottom: 150px;
 }
 h1 {
   font-size: 100px;
   line-height: 150%;
+}
+.button{
+  border: 1px solid black;
+  text-decoration: none;
+  color: black;
+  padding: 10px 40px;
+  margin-top: 40px;
+  display: inline-block;
+  border-radius: 20px;
+}
+figcaption{
+  font-size: 15px;
+}
+.contain{
+  background-color: #F7A9A8;
 }
