@@ -1,10 +1,46 @@
 .nav{
   font-family: 'Indie Flower', cursive;
-
 }
 body {
   font-family: 'Abril Fatface', cursive;
+  background-color: #EF798A;
+  font-size: 15px;
 }
 h1,h2{
   font-family: 'Inknut Antiqua', serif;
+}
+body,ul {
+  margin: 0;
+  padding: 0;
+}
+img {
+  max-width:  100%;
+}
+nav{
+  background-color: #F7A9A8;
+  position: fixed;
+  z-index: 1;
+  width: 100%;
+}
+nav ul li{
+  display: inline-block;
+  margin: 0 15px;
+  padding: 0;
+  text-transform: lowercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+nav ul{
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px;
+}
+header{
+  top: 70px;
+  position: relative;
+  margin-bottom: 110px;
+}
+h1 {
+  font-size: 100px;
+  line-height: 150%;
 }
