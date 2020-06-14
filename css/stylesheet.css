@@ -4,9 +4,10 @@
 }
 body {
   font-family: 'Abril Fatface', cursive;
-  background-color: #EF798A;
+  background-color: #FFFFFF;
   font-size: 15px;
   font-weight: bold;
+  margin-bottom: 150px
 }
 h1,h2{
   font-family: 'Inknut Antiqua', serif;
@@ -23,7 +24,7 @@ img {
   max-width:  100%;
 }
 nav{
-  background-color: #F7A9A8;
+  background-color: #F7BDBC;
   position: fixed;
   z-index: 1;
   width: 100%;
@@ -65,7 +66,7 @@ figcaption{
   font-size: 15px;
 }
 .contain{
-  background-color: #F7A9A8;
+  background-color: #F7BDBC;
 }
 .move{
   margin: 0 150px;
